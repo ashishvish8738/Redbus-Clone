@@ -6,7 +6,8 @@ body{
     font-family: 'Roboto', sans-serif;
     background-image: url(/src/Assets/bg.png);
 }
-
+@media screen{
+    
 #main{
     margin: 20px 70px;
 }
